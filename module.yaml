@@ -1,1 +1,8 @@
 product: jvm/app
+
+settings@jvm: 
+    kotlin: 
+        languageVersion: 2.0
+    jvm: 
+        target: 17
+ 
